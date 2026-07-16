@@ -1,6 +1,8 @@
-### Hi there 👋
->Welcome to Fryvo-Tings-ish
->this is place that "we" work together
->Mostly 
->
-> [Click here to go back](https://github.com/fryrvo)
+# Fryrvo Portal
+
+
+- [Modwinth](https://github.com/Modwinth)
+- [Archive](https://github.com/fryrvoarchive)
+- [FryrvoMusic](https://github.com/FryrvoMusic)
+
+- [Discord](https://discord.fryrvo.com)
