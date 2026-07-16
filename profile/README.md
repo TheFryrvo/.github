@@ -18,7 +18,7 @@
 >- [Modwinth](https://github.com/Modwinth)
 >
 >
->Member
+> alters aka Headmate
 >- [Fryrvo](https://github.com/fryrvo)
 >- [Chane](https://github.com/Chane-ee)
 >- [Fosh](https://github.com/fryrofox)
