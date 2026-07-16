@@ -10,6 +10,7 @@
 <!-- Patreon  <a href="https://www.patreon.com/c/Fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/patreon2_icon_bg.png" alt="Patreon" style="margin: 5px 10px;"></a>  -->
 <!-- cruseforge --> <a href="https://www.curseforge.com/members/fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/cruseforge_icon_bg.png" alt="CurseForge" style="margin: 5px 10px;"></a>
 
+<a href="https://github.com/fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Divider.png" alt="Discord" style="margin: 5px 10px;"></a>      
 
 >Organization's
 >- [index](https://github.com/FryrvoFox) 
