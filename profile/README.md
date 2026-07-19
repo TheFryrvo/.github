@@ -20,9 +20,10 @@
 >
 >
 > alters aka Headmate
->- [Fryrvo](https://github.com/fryrvo)
+>- [Fryrvo Fox](https://github.com/fryrvo)
+>- [Fosh Fox](https://github.com/Fryvo-Fox)
+>- [Fyivy Fox](https://github.com/fyivy)
 >- [Chane](https://github.com/Chane-ee)
->- [Fosh](https://github.com/Fryvo-Fox)
 >
 >
 >Link (that i don't have icon so i can't put up there)
