@@ -28,7 +28,7 @@
 >Link (that i don't have icon so i can't put up there)
 >- [SoundCloud](https://soundcloud.com/fryrvo)
 >- [Twitter](https://x.com/Fryrvo)
->- [Google](https://www.google.com/search?kgmid=/g/11z92w4s7g&hl)
+<!-- >- [Google](https://www.google.com/search?kgmid=/g/11z92w4s7g&hl)  -->
 
 
 
