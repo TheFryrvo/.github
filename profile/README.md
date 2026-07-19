@@ -19,7 +19,7 @@
 >- [Modwinth](https://github.com/Modwinth) 
 >
 >
-> alters aka Headmate
+> alters Meember
 >- [Fryrvo Fox](https://github.com/fryrvo)
 >- [Fosh Fox](https://github.com/Foshfox)
 >- [Fyivy Fox](https://github.com/fyivy)
